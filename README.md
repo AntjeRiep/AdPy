@@ -2,4 +2,4 @@
 
 ## subheading
 
-Some content
+Some content.
